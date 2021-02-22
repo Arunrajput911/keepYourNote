@@ -1,9 +1,9 @@
-import React, { useState,useEffect } from "react";
+import React, { useState} from "react";
 import Header from "./Header";
 import Footer from "./Footer";
 import Note from "./Note";
 import CreateArea from "./CreateArea";
-import axios from "axios";
+// import axios from "axios";
 
 
 
